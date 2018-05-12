@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '37842'
     url: http://www.gutenberg.org/2009/agents/37842
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39060#Wild-Oatsor-The-Strolling-Gentlemen
 gutenberg_issued: '2012-03-06'
 gutenberg_type: Text
 identifiers:

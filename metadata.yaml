@@ -1,0 +1,28 @@
+_repo: Wild-Oatsor-The-Strolling-Gentlemen_39060
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: O'Keeffe, John
+    alias: O'Keefe, John
+    birthdate: 1747
+    deathdate: 1833
+    gutenberg_agent_id: '37842'
+    url: http://www.gutenberg.org/2009/agents/37842
+description: ''
+gutenberg_issued: '2012-03-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39060'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English drama'
+- !lcsh 'Comedies'
+title: Wild Oats; or, The Strolling Gentlemen
+url: http://www.gutenberg.org/ebooks/39060
